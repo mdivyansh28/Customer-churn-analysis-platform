@@ -255,32 +255,37 @@ Add screenshots after dashboard development.
 
 ### Home Dashboard
 
-screenshots/home.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88a8430b-415e-471d-ae1f-8980704c79ee" />
+
 
 ### Customer Analytics
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37280726-5fd6-42b8-89e7-588dfe94e2ce" />
 
-screenshots/customer_analytics.png
 
 ### Churn Analytics
 
-screenshots/churn_analytics.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f658fd31-0470-4401-857e-26eba6bf7f95" />
+
 
 ### Revenue Analytics
 
-screenshots/revenue_analytics.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52bf953f-d1f6-4d85-9f66-5f181b5e31a3" />
+
 
 ### Prediction Module
 
-screenshots/prediction_module.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f57f2409-d04a-41d7-9984-4329f5b6c387" />
+
 
 ### Recommendations
 
-screenshots/recommendations.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa09148a-122b-4dfa-85a2-77a7d779f45a" />
+
 
 ---
 
 ## Author
-
-MCA Final Year Project
+Divyansh Mishra
+Data Science & Analytics Professional
 
 Customer Churn Analytics and Retention Intelligence Platform
